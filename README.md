@@ -1,7 +1,6 @@
 Hi!
 I'm Pacifique Sibomana;
 - 👀 I’m interested in software developing!...
-- 🌱 I’m currently learning .Javascript..
 - 💞️ I’m looking to collaborate on .different projects...
 
 <!---
